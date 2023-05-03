@@ -1,5 +1,4 @@
-![image](https://raw.githubusercontent.com/ignaciovocos/ignaciovocos/main/fotonacho.jpeg)
-
+![image](image/nacho.jpeg)
 👋 Actualmente estoy capacitandome en diversos aspectos y rubros IT 💻🌐.
 
 ◾️ Cuento con la certificación expedida por Amazon : Aws Cloud Practitioner.
