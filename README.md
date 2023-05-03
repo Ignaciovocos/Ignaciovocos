@@ -1,4 +1,4 @@
-![image](image/fotonacho.jpeg)
+![image](https://raw.githubusercontent.com/ignaciovocos/ignaciovocos/main/fotonacho.jpeg)
 
 👋 Actualmente estoy capacitandome en diversos aspectos y rubros IT 💻🌐.
 
