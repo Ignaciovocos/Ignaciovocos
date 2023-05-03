@@ -1,3 +1,5 @@
+![image](image/fotonacho.jpeg)
+
 👋 Actualmente estoy capacitandome en diversos aspectos y rubros IT 💻🌐.
 
 ◾️ Cuento con la certificación expedida por Amazon : Aws Cloud Practitioner.
