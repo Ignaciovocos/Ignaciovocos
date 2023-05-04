@@ -1,4 +1,4 @@
-![image](image/nacho.jpeg)
+![image](image/nachoultima.jpeg)
 
 👋 Hola ! Actualmente estoy capacitandome en diversos aspectos y rubros IT 💻🌐.
 
