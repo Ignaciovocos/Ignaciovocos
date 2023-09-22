@@ -1,6 +1,6 @@
 ![image](image/nachoultima.jpeg)
 
-👋 Hola ! Actualmente estoy capacitandome en diversos aspectos y rubros IT 💻🌐.
+👋 Hola ! Actualmente me encuentro trabajando como Devops Engineer en MobyDigital 💻🌐.
 
 ◾️ Cuento con la certificación expedida por Amazon : Aws Cloud Practitioner.
 
@@ -14,7 +14,7 @@ Mi objetivo es  aprender cada día más.✅
 
 Busco mi superación personal proponiéndome nuevos desafios y objetivos, agradeciendo a todos los que me han ayudado en el camino.
                                                                      
- 📣 |READY TO WORK|📣
+ 
 
 🚀 ¡No dudes en Contáctarme!🚀
 
